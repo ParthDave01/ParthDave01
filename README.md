@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on DSA, Github projects, etc...
 
 
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently learning Web development & Python 
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
